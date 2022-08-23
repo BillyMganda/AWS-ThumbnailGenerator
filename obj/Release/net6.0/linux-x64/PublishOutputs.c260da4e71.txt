@@ -1,0 +1,10 @@
+C:\Users\Billy Isogol\Desktop\C#\awsStepFunction\ThumbnailGenerator\bin\Release\net6.0\publish\ThumbnailGenerator.deps.json
+C:\Users\Billy Isogol\Desktop\C#\awsStepFunction\ThumbnailGenerator\bin\Release\net6.0\publish\ThumbnailGenerator.runtimeconfig.json
+C:\Users\Billy Isogol\Desktop\C#\awsStepFunction\ThumbnailGenerator\bin\Release\net6.0\publish\ThumbnailGenerator.pdb
+C:\Users\Billy Isogol\Desktop\C#\awsStepFunction\ThumbnailGenerator\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Billy Isogol\Desktop\C#\awsStepFunction\ThumbnailGenerator\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\Billy Isogol\Desktop\C#\awsStepFunction\ThumbnailGenerator\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Billy Isogol\Desktop\C#\awsStepFunction\ThumbnailGenerator\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\Billy Isogol\Desktop\C#\awsStepFunction\ThumbnailGenerator\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\Billy Isogol\Desktop\C#\awsStepFunction\ThumbnailGenerator\bin\Release\net6.0\publish\SixLabors.ImageSharp.dll
+C:\Users\Billy Isogol\Desktop\C#\awsStepFunction\ThumbnailGenerator\bin\Release\net6.0\publish\ThumbnailGenerator.dll
